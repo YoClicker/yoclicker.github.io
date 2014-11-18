@@ -30,7 +30,8 @@ a, a:hover {
 }
 
 a:hover {
-	color: #3498DB;
+	background-color: white;
+	color: #9B59B6;
 }
 
 body {
