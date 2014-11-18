@@ -61,6 +61,14 @@ h3 {
 	font-size: 3em;
 }
 
-.signature {
-	margin: 3em 0em;
+#mc_embed_signup {
+	max-width: 400px;
+}
+
+.validate label, .validate input {
+	color: #9B59B6;
+}
+
+#mc_embed_signup, .signature {
+	margin: 100px 0px;
 }
